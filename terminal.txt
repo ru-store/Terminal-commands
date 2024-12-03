@@ -1,0 +1,8 @@
+#How to create a file in Terminal on Mac?
+
+##To create a file using Terminal on Mac, you can take the following steps:
+1. Open the Terminal app from your Applications > Utilities folder.
+2. Type the command below and hit Enter to move to the directory where the new file will be stored.
+
+"cd folder_path"
+
